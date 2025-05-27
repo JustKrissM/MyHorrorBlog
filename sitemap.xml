@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>myhorrorblog.pages.dev/posts/las-malignas/</loc>
     <lastmod>2025-05-26T22:37:33-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/ghost-in-the-attic/</loc>
+    <loc>myhorrorblog.pages.dev/posts/</loc>
+    <lastmod>2025-05-26T22:37:33-05:00</lastmod>
+  </url><url>
+    <loc>myhorrorblog.pages.dev/</loc>
+    <lastmod>2025-05-26T22:37:33-05:00</lastmod>
+  </url><url>
+    <loc>myhorrorblog.pages.dev/posts/ghost-in-the-attic/</loc>
     <lastmod>2025-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/la-estatua-del-abuelo/</loc>
+    <loc>myhorrorblog.pages.dev/posts/la-estatua-del-abuelo/</loc>
     <lastmod>2025-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+    <loc>myhorrorblog.pages.dev/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>myhorrorblog.pages.dev/tags/</loc>
   </url>
 </urlset>
