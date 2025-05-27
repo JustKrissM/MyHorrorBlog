@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Shadows Between</title>
-    <link>myhorrorblog.pages.dev/</link>
+    <link>/</link>
     <description>Recent content on The Shadows Between</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 May 2025 22:37:33 -0500</lastBuildDate>
-    <atom:link href="myhorrorblog.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Las Malignas</title>
-      <link>myhorrorblog.pages.dev/posts/las-malignas/</link>
+      <link>/posts/las-malignas/</link>
       <pubDate>Mon, 26 May 2025 22:37:33 -0500</pubDate>
-      <guid>myhorrorblog.pages.dev/posts/las-malignas/</guid>
+      <guid>/posts/las-malignas/</guid>
       <description>&lt;p&gt;Iba caminando el vendedor de fruta  por la calle como de costumbre, cuando su mirada se fijó sobre un objeto fuera de lo común. Reposando sobre un jarrón de cristal, se encontraba  un conjunto de flores; era un ramo sencillo pero bien logrado. Destacaba en la acera del resto de la basura que sería recogida esa misma noche.&lt;/p&gt;&#xA;&lt;p&gt;No pudo evitar el impulso de tomarlas. Se acercó pudo sentir como su aroma lo embriagaba.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ghost in the Attic</title>
-      <link>myhorrorblog.pages.dev/posts/ghost-in-the-attic/</link>
+      <link>/posts/ghost-in-the-attic/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>myhorrorblog.pages.dev/posts/ghost-in-the-attic/</guid>
+      <guid>/posts/ghost-in-the-attic/</guid>
       <description>&lt;p&gt;It was a cold, whispering night&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>La estatua del abuelo</title>
-      <link>myhorrorblog.pages.dev/posts/la-estatua-del-abuelo/</link>
+      <link>/posts/la-estatua-del-abuelo/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>myhorrorblog.pages.dev/posts/la-estatua-del-abuelo/</guid>
+      <guid>/posts/la-estatua-del-abuelo/</guid>
       <description>&lt;p&gt;La casa de mis padres viene a mi como un recuerdo tierno de mi juventud y adultez temprana, sin embargo, ahora que he perdido la inocencia no puedo evitar sentirme aterrado al pensar en el patio de su casa, de nuestra querida casa.&lt;/p&gt;&#xA;&lt;p&gt;El interior de la casa no tiene nada fuera de lo común, la sala principal es amplia pero algo vacía, con algunos muebles que sirven de lugar de reposo para los gatos que tuvimos al crecer; lo realmente destacable viene al salir al patio, ya desde la entrada se puede observar un gran árbol qué da sombra a la casa y a gran parte del patio. Su sombra abraza en penumbras un gran panteón familiar que recuerdo con cariño, pero ahora me causa espanto pensar que ahí dentro en medio de mis recuerdos, en medio de mi casa, se encuentran los huesos de mi abuelo convertidos en estatua; así lo quiso en su testamento y de alguna manera lo siguieron en su tan tétrico propósito.&lt;/p&gt;</description>
     </item>
   </channel>
