@@ -42,7 +42,7 @@ nav{
 }
 
 .banner{
-    background-image: url("../../static/images/haunteBanner.jpg");
+    background-image: url("../../images/haunteBanner.jpg");
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
